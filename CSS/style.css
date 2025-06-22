@@ -9,7 +9,7 @@ body{
 }
 header{background-color: darkolivegreen; padding:20px;}
 h1{color: white; font-size:30px;}
-section div h2{color:darkolivegreen ; text-align: center; font-size: 30px; margin-top: 10px;}
+section div h2{color:darkolivegreen ; text-align: center; font-size: 30px; margin-top: 15px;}
 section div p{ margin: 10px 20px;}
 section div img{width: 400px;margin: 20px ;}
 footer{background-color: darkolivegreen;}

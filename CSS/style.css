@@ -1,0 +1,16 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+header{background-color: darkolivegreen; padding:20px;}
+h1{color: white; font-size:30px;}
+section div h2{color:darkolivegreen ; text-align: center; font-size: 30px; margin-top: 10px;}
+section div p{ margin: 10px 20px;}
+section div img{width: 400px;margin: 20px ;}
+footer{background-color: darkolivegreen;}
+footer h2{color: white;font-size:30px; text-align: center;padding:20px}
